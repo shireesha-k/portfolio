@@ -3,7 +3,7 @@ import Image from "next/image";
 
 export default function HackathonsandEvents() {
   return (
-    <section id="hackathons" className="py-20 px-6">
+    <section id="events" className="py-20 px-6">
        <div className="text-center mb-16">
   <h2 className="text-4xl font-bold mb-4">
     Hackthons and Events
@@ -22,7 +22,7 @@ export default function HackathonsandEvents() {
       height={350}
       className="w-full h-64 object-cover"
     />
-    <div className="p-4 text-center font-semibold">
+    <div className="p-4 text-center font-semibold text-gray-800">
       National Level Hackathon – CMRCET
     </div>
   </div>
@@ -36,7 +36,7 @@ export default function HackathonsandEvents() {
       height={350}
       className="w-full h-64 object-cover"
     />
-    <div className="p-4 text-center font-semibold">
+    <div className="p-4 text-center font-semibold text-gray-800">
       Campus Chatbot Buildathon
     </div>
   </div>
@@ -49,7 +49,7 @@ export default function HackathonsandEvents() {
       height={350}
       className="w-full h-64 object-cover"
     />
-    <div className="p-4 text-center font-semibold">
+    <div className="p-4 text-center font-semibold text-gray-800">
       ABC's of Machine Learning 
     </div>
   </div>
@@ -61,7 +61,7 @@ export default function HackathonsandEvents() {
       height={350}
       className="w-full h-64 object-cover"
     />
-    <div className="p-4 text-center font-semibold">
+    <div className="p-4 text-center font-semibold text-gray-800">
       Meet and Greet 2024
     </div>
   </div>
@@ -74,7 +74,7 @@ export default function HackathonsandEvents() {
       height={350}
       className="w-full h-64 object-cover"
     />
-    <div className="p-4 text-center font-semibold">
+    <div className="p-4 text-center font-semibold text-gray-800">
       The Feed Formula
     </div>
   </div>
@@ -87,7 +87,7 @@ export default function HackathonsandEvents() {
       height={350}
       className="w-full h-64 object-cover"
     />
-    <div className="p-4 text-center font-semibold">
+    <div className="p-4 text-center font-semibold text-gray-800">
       AI Agents:The New Digital Workforce
     </div>
   </div>

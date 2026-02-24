@@ -7,8 +7,7 @@ import { motion, useInView } from "framer-motion";
 const projectsData = [
   {
     id: 1,
-    title: "NextJS Portfolio Website",
-    description: "Project 1 description",
+    title: "Portfolio Website",
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/shireesha-k/portfolio",
@@ -17,7 +16,6 @@ const projectsData = [
   {
     id: 2,
     title: "Hostel Mess Management Application",
-    description: "Project 2 description",
     image: "/images/projects/2.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/shireesha-k/hostel-mess-system",
@@ -26,7 +24,6 @@ const projectsData = [
   {
     id: 3,
     title: " Ai SASS Application using React js",
-    description: "Project 3 description",
     image: "/images/projects/3.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/shireesha-k/quick-ai",
@@ -35,7 +32,6 @@ const projectsData = [
   {
     id: 4,
     title: "Gemini Clone using React",
-    description: "Project 4 description",
     image: "/images/projects/4.png",
     tag: ["All", "Mobile"],
     gitUrl: "https://github.com/shireesha-k/gemini-clone-react",

@@ -118,11 +118,11 @@ const EmailSection = () => {
               />
             </div>
             <button
-              type="submit"
-              className="bg-primary-500 hover:bg-primary-600 text-white font-medium py-2.5 px-5 rounded-lg w-full"
-            >
-              Send Message
-            </button>
+  type="submit"
+  className="w-full bg-gradient-to-r from-purple-600 to-pink-500 hover:from-purple-700 hover:to-pink-600 text-white font-semibold py-3 px-6 rounded-xl shadow-lg transition-all duration-300 hover:shadow-2xl hover:-translate-y-1 active:scale-95"
+>
+  Send Message
+</button>
           </form>
         )}
       </div>

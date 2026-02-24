@@ -18,6 +18,14 @@ const navLinks = [
     title: "Contact",
     path: "#contact",
   },
+  {
+    title:"Events",
+    path:"#events"
+  },
+  {
+    title:"Certifications",
+    path:"#certifications"
+  }
 ];
 
 const Navbar = () => {
