@@ -11,7 +11,7 @@ const projectsData = [
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/shireesha-k/portfolio",
-    previewUrl: "/",
+    previewUrl: "https://portfolio-shireesha.vercel.app/",
   },
   {
     id: 2,
@@ -37,6 +37,15 @@ const projectsData = [
     gitUrl: "https://github.com/shireesha-k/gemini-clone-react",
     previewUrl: "/",
   },
+  {
+    id: 4,
+    title: "Chat App using mern",
+    image: "/images/projects/5.png",
+    tag: ["All", "Mobile"],
+    gitUrl: "https://github.com/shireesha-k/chat-application",
+    previewUrl: "https://chat-application-1-xjp9.onrender.com/",
+  },
+
 ];
 
 const ProjectsSection = () => {
